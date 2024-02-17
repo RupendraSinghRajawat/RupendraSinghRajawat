@@ -4,15 +4,15 @@
 <h3 align="center">Software Engineer</h3>
 
 <div align="center">
-<a href="#"><img src="https://tenor.com/view/anonimous-hacker-gif-25488931" alt="Typing SVG" /></a>
+<a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&color=blue &width=470&lines=Hello+Fellow+%3C%2FDevelopers%3E;if(brain!%3Dempty)+keepCoding()+;else++orderCoffee()+" alt="Typing SVG" /></a>
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+Fellow+%3C%2FDevelopers%3E;if(brain+!%3D+empty)+%7B++keepCoding()++%7D+;else+%7B++orderCoffee()++%7D)](https://git.io/typing-svg) -->
 </div>
 
 ![MasterHead](https://miro.medium.com/max/1400/1*OxT7UjIwhklKE8d8SFyo7g.gif)
 
-<img src="https://static.wixstatic.com/media/191815_5d9d3ff1ad894e96a2f0a86681563555~mv2.gif" width="350px" align="right">
+<img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 150px align="right">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Alipakkr&label=Profile%20views&color=0e75b6&style=flat" alt="err" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RupendraSinghRajawat&label=Profile%20views&color=0e75b6&style=flat" alt="err" /></p>
 
 - 📫 How to reach me *rupendrasinghrajawat209@gmail.com*
 - My Portfolio *https://rupendrasingh.me*
