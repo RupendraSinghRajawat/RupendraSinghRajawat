@@ -1,10 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Rupendra</h1>
 
-<h3 align="center">Passionate Full Stack Web Developer</h3>
+<h3 align="center">Software Engineer</h3>
 
 <div align="center">
-<a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&color=blue &width=470&lines=Hello+Fellow+%3C%2FDevelopers%3E;if(brain!%3Dempty)+keepCoding()+;else++orderCoffee()+" alt="Typing SVG" /></a>
+<a href="#"><img src="https://tenor.com/view/anonimous-hacker-gif-25488931" alt="Typing SVG" /></a>
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+Fellow+%3C%2FDevelopers%3E;if(brain+!%3D+empty)+%7B++keepCoding()++%7D+;else+%7B++orderCoffee()++%7D)](https://git.io/typing-svg) -->
 </div>
 
@@ -22,8 +22,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/alipa-55b365285" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alipa-55b365285" height="30" width="40" /></a>
-<a href="https://instagram.com/_alipa_ranga__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_alipa_ranga__" height="30" width="40" /></a>
+
+<a href="https://instagram.com/_rupendrasinghrajawat_" target="blank"></a>
 </p>
 
 
